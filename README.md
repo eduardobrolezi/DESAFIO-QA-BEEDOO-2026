@@ -40,6 +40,6 @@ Para validar que os dados da aplicação estão sendo enviados corretamente para
 
 ## 📁 Evidências de Teste
 
-Para conferir o funcionamento da aplicação (prints de tela, validações de banco de dados e testes de fluxo), acesse o link abaixo:
+Para conferir o funcionamento da aplicação (prints de tela, testes realizados), acesse o link abaixo:
 
 🔗 [Pasta de Evidências - Google Drive](https://drive.google.com/drive/folders/1TxwNAL8U1XbldYjemoWMjtY7xwjG3UEN?usp=sharing)
