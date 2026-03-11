@@ -30,3 +30,16 @@ A gente precisa cuidar para ninguém tentar injetar scripts maliciosos nos campo
 
 5. Link da imagem da capa
 Como a página mostra as fotos dos cursos, o link da URL tem que funcionar direitinho. Se a imagem quebrar, o layout da aplicação fica todo bagunçado e passa uma impressão ruim para o usuário.
+
+## 📊 Integração com Google Sheets
+
+Para validar que os dados da aplicação estão sendo enviados corretamente para a planilha, acesse as evidências de integração abaixo:
+
+🔗 [Pasta de Evidências (Prints do Sheets)](https://docs.google.com/spreadsheets/d/1itTaTENAVghTsJvCjuOv46BMFlYPM1ye4lOPS7ljEvA/edit?usp=sharing)
+
+
+## 📁 Evidências de Teste
+
+Para conferir o funcionamento da aplicação (prints de tela, validações de banco de dados e testes de fluxo), acesse o link abaixo:
+
+🔗 [Pasta de Evidências - Google Drive](https://drive.google.com/drive/folders/1TxwNAL8U1XbldYjemoWMjtY7xwjG3UEN?usp=sharing)
