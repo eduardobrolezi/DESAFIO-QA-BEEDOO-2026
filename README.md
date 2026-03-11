@@ -35,7 +35,7 @@ Como a página mostra as fotos dos cursos, o link da URL tem que funcionar direi
 
 Para validar que os dados da aplicação estão sendo enviados corretamente para a planilha, acesse as evidências de integração abaixo:
 
-🔗 [Pasta de Evidências (Prints do Sheets)](https://docs.google.com/spreadsheets/d/1itTaTENAVghTsJvCjuOv46BMFlYPM1ye4lOPS7ljEvA/edit?usp=sharing)
+🔗 [Pasta de Evidências (Tabela google Sheets)](https://docs.google.com/spreadsheets/d/1itTaTENAVghTsJvCjuOv46BMFlYPM1ye4lOPS7ljEvA/edit?usp=sharing)
 
 
 ## 📁 Evidências de Teste
